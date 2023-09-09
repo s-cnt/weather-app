@@ -1,0 +1,23 @@
+.container {
+    max-width: 1080px;
+    margin: 20px auto;
+}
+
+/* .weather-bg-clear {
+    background-image: url("https://images.unsplash.com/photo-1615286628718-4a4c8924d0eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.weather-bg-cloudy {
+    background-image: url("path-to-cloudy-image.jpg");
+}
+
+.weather-bg-rainy {
+    background-image: url("path-to-rainy-image.jpg");
+}
+
+
+.weather-bg-night {
+    background-image: url(); */

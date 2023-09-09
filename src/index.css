@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: "Roboto", Arial, sans-serif !important;
+    -webkit-font-something: antialiased;
+    -moz-osx-font-something: grayscale;
+    background-color: #d5d5d4;
+    background-image: url(https://images.unsplash.com/photo-1447014421976-7fec21d26d86?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=c82e04e1201234889daab5427f481731);
+    background-repeat: no-repeat;
+    background-size: 1080px;
+    background-position-x: center;
+    background-size: cover;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'courier New',
+        monospace;
+}
